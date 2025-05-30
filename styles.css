@@ -1,0 +1,37 @@
+/* Estilos generales */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+    color: #333;
+}
+
+/* Cabecera */
+header {
+    background-color: #4caf50;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+}
+
+/* Sección de contenido */
+#content {
+    padding: 20px;
+    text-align: center;
+}
+
+#content h2 {
+    color: #4caf50;
+}
+
+/* Pie de página */
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
